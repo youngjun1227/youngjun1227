@@ -44,4 +44,4 @@ AI 데이터 기반 소상공인 입지 컨설팅 서비스
 
 ## 📫 Contact
 
-Email: your-email@example.com
+Email: zerojun1029@naver.com
