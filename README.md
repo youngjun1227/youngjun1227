@@ -15,9 +15,6 @@ React · TypeScript · JavaScript · HTML/CSS
 **Design**
 Figma · UI/UX · Design System
 
-**Backend / Infrastructure**
-Python · Spring Boot · AWS · Docker
-
 **Tools**
 Git · GitHub · Jira
 
