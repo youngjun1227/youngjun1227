@@ -66,10 +66,6 @@
 </div>
 
 <br/><br/>
-
-<div align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=youngjun1227&show_icons=true&hide_border=true&include_all_commits=true&title_color=0F172A&text_color=475569&icon_color=94A3B8"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun1227&layout=compact&hide_border=true&title_color=0F172A&text_color=475569"/>
 <br/><br/>
 <a href="mailto:zerojun1029@naver.com"><img src="https://img.shields.io/badge/zerojun1029@naver.com-0F172A?style=flat-square&logo=maildotru&logoColor=E2E8F0"/></a>
 </div>
