@@ -64,8 +64,4 @@
 </table>
 
 </div>
-
-<br/><br/>
-<br/><br/>
-<a href="mailto:zerojun1029@naver.com"><img src="https://img.shields.io/badge/zerojun1029@naver.com-0F172A?style=flat-square&logo=maildotru&logoColor=E2E8F0"/></a>
 </div>
