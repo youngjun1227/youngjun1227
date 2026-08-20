@@ -1,49 +1,105 @@
 <div align="center">
 
-### Hi, I'm Youngjun 👋
+<img src="./assets/banner.png" width="100%" alt="Youngjun Ko — Frontend Developer & Product Designer"/>
 
-**Frontend Developer · Product Designer**
+<br/><br/>
 
-기획부터 UI/UX 디자인, 프론트엔드 개발까지 제품의 전 과정을 만듭니다.
+기획부터 UI/UX 디자인, 프론트엔드 개발까지 &nbsp;·&nbsp; 제품의 전 과정을 만듭니다
 
-[![Email](https://img.shields.io/badge/zerojun1029@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zerojun1029@naver.com)
+<br/>
 
 </div>
 
 <br/>
 
-## 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-<br/>
-
-## 🚀 Projects
-
-| Project | Description | Role | Stack |
-|---|---|---|---|
-| [**Ventry**](https://github.com/yutakdv/Ventry) | 자금 우선 입지 컨설팅 에이전트<br/>`KB 제8회 Future Finance AI Challenge` | Frontend, UI/UX | React, TypeScript, Vite |
-| [**상생 나침반**](https://github.com/yutakdv/sangseng-navigator) | AI 지역상생 정책 의사결정 지원 플랫폼<br/>`강원랜드 × SDU 바이브코딩 경진대회 우수상` | Frontend, Planning | Next.js, TypeScript, Tailwind |
-| **도담도담** `WIP` | AI 기반 어린이 대화 서비스<br/>`산학 캡스톤디자인` | Frontend, UI/UX | React Native, Figma |
-
-<br/>
-
-## 📊 Stats
+<div align="center">
+<img src="https://img.shields.io/badge/-STACK-0F172A?style=flat-square&labelColor=0F172A"/>
+</div>
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=youngjun1227&show_icons=true&hide_border=true&include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun1227&layout=compact&hide_border=true)
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=E2E8F0"/>
+
+<img src="https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/Jira-0F172A?style=flat-square&logo=jira&logoColor=E2E8F0"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-0F172A?style=flat-square&logo=notion&logoColor=E2E8F0"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-WORK-0F172A?style=flat-square&labelColor=0F172A"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### Ventry
+
+<sub>자금 우선 입지 컨설팅 에이전트</sub>
+
+<sub>`KB Future Finance AI Challenge`</sub>
+
+<sub>**Frontend · UI/UX**</sub>
+
+<sub>React · TypeScript · Vite</sub>
+
+[**→ repo**](https://github.com/yutakdv/Ventry)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 상생 나침반
+
+<sub>AI 지역상생 정책 의사결정 플랫폼</sub>
+
+<sub>`강원랜드 × SDU` **우수상**</sub>
+
+<sub>**Frontend · Planning**</sub>
+
+<sub>Next.js · TypeScript · Tailwind</sub>
+
+[**→ repo**](https://github.com/yutakdv/sangseng-navigator)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 도담도담
+
+<sub>AI 기반 어린이 대화 서비스</sub>
+
+<sub>`산학 캡스톤디자인` · 진행 중</sub>
+
+<sub>**Frontend · UI/UX Design**</sub>
+
+<sub>React Native · Figma</sub>
+
+<sub>→ coming soon</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=youngjun1227&show_icons=true&hide_border=true&include_all_commits=true&title_color=0F172A&text_color=475569&icon_color=94A3B8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun1227&layout=compact&hide_border=true&title_color=0F172A&text_color=475569"/>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/zerojun1029@naver.com-0F172A?style=flat-square&logo=maildotru&logoColor=E2E8F0)](mailto:zerojun1029@naver.com)
 
 </div>
